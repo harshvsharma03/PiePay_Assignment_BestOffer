@@ -1,0 +1,47 @@
+{
+  "OfferApiResponse": {
+    "productId": "MOB12345XYZ",
+    "pricing": {
+      "price": 29999,
+      "finalPrice": 26999
+    },
+    "offers": [
+      {
+        "offerId": "BANK_HDFC_10",
+        "offerDescription": "10% Instant Discount on HDFC Bank Credit Cards",
+        "discountType": "PERCENTAGE",
+        "discountValue": 10,
+        "maxDiscount": 1500,
+        "instrument": "CREDIT",
+        "bank": "HDFC"
+      },
+      {
+        "offerId": "EMI_ICICI_500",
+        "offerDescription": "Flat ₹500 off on ICICI EMI Transactions",
+        "discountType": "FLAT",
+        "discountValue": 500,
+        "maxDiscount": 500,
+        "instrument": "EMI_OPTIONS",
+        "bank": "ICICI"
+      },
+      {
+        "offerId": "UPI_PHONEPE_50",
+        "offerDescription": "₹50 cashback on PhonePe UPI payments",
+        "discountType": "FLAT",
+        "discountValue": 50,
+        "maxDiscount": 50,
+        "instrument": "UPI",
+        "bank": "PHONEPE"
+      },
+      {
+        "offerId": "BANK_HDFC_10", 
+        "offerDescription": "Duplicate: Same HDFC offer again",
+        "discountType": "PERCENTAGE",
+        "discountValue": 10,
+        "maxDiscount": 1500,
+        "instrument": "CREDIT",
+        "bank": "HDFC"
+      }
+    ]
+  }
+}
