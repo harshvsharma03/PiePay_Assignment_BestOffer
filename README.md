@@ -1,4 +1,4 @@
-~Best Offer Detection Service~
+Best Offer Detection Service
 
 A backend service that extracts e-commerce payment offers, stores them efficiently, and identifies the highest available discount.
 
@@ -16,20 +16,25 @@ A backend service that extracts e-commerce payment offers, stores them efficient
 ▶️ Running the Project
 
 1️⃣ Install Dependencies
+
 npm install
 
 2️⃣ Configure Environment
+
 Create .env file:
+
   MONGO_URI= {your connection link}
+  
   PORT= {PORT of your CHOICE}
 
 
-~✔ Environment Variables~
+✔ Environment Variables
+
 Sensitive information like DB connection URI is isolated in .env
 
 🧪 Testing with Postman
 
-~Use Postman to test:~
+Use Postman to test:
 POST /createOffer
 POST /best-discount
 
