@@ -1,0 +1,263 @@
+[
+  {
+    "offerId": "CC_HDFC_10",
+    "description": "10% instant discount on HDFC Credit Cards for orders above ₹5000",
+    "discountType": "PERCENTAGE",
+    "discountValue": 10,
+    "maxCap": 1500,
+    "instrument": "CREDIT_CARD",
+    "bank": "HDFC"
+  },
+  {
+    "offerId": "CC_HDFC_500",
+    "description": "Flat ₹500 off using HDFC Credit Card EMI transactions",
+    "discountType": "FLAT",
+    "discountValue": 500,
+    "maxCap": 500,
+    "instrument": "CREDIT_CARD",
+    "bank": "HDFC"
+  },
+  {
+    "offerId": "CC_HDFC_12",
+    "description": "12% discount on HDFC Credit Card for furniture category",
+    "discountType": "PERCENTAGE",
+    "discountValue": 12,
+    "maxCap": 2000,
+    "instrument": "CREDIT_CARD",
+    "bank": "HDFC"
+  },
+
+  {
+    "offerId": "CC_ICICI_7",
+    "description": "7% instant discount on ICICI Credit Card orders above ₹4000",
+    "discountType": "PERCENTAGE",
+    "discountValue": 7,
+    "maxCap": 1000,
+    "instrument": "CREDIT_CARD",
+    "bank": "ICICI"
+  },
+  {
+    "offerId": "CC_ICICI_300",
+    "description": "Flat ₹300 off on ICICI Credit Card payments",
+    "discountType": "FLAT",
+    "discountValue": 300,
+    "maxCap": 300,
+    "instrument": "CREDIT_CARD",
+    "bank": "ICICI"
+  },
+  {
+    "offerId": "CC_ICICI_9",
+    "description": "9% discount using ICICI Credit Card on orders above ₹6000",
+    "discountType": "PERCENTAGE",
+    "discountValue": 9,
+    "maxCap": 1800,
+    "instrument": "CREDIT_CARD",
+    "bank": "ICICI"
+  },
+
+  {
+    "offerId": "CC_SBI_8",
+    "description": "8% instant discount on SBI Credit Cards for electronics",
+    "discountType": "PERCENTAGE",
+    "discountValue": 8,
+    "maxCap": 1200,
+    "instrument": "CREDIT_CARD",
+    "bank": "SBI"
+  },
+  {
+    "offerId": "CC_SBI_400",
+    "description": "Flat ₹400 off using SBI Credit Card",
+    "discountType": "FLAT",
+    "discountValue": 400,
+    "maxCap": 400,
+    "instrument": "CREDIT_CARD",
+    "bank": "SBI"
+  },
+  {
+    "offerId": "CC_SBI_11",
+    "description": "11% discount on SBI Credit Card on fashion category",
+    "discountType": "PERCENTAGE",
+    "discountValue": 11,
+    "maxCap": 1300,
+    "instrument": "CREDIT_CARD",
+    "bank": "SBI"
+  },
+
+  {
+    "offerId": "CC_AXIS_10",
+    "description": "10% off on Axis Bank Credit Cards for orders above ₹3500",
+    "discountType": "PERCENTAGE",
+    "discountValue": 10,
+    "maxCap": 1000,
+    "instrument": "CREDIT_CARD",
+    "bank": "AXIS"
+  },
+  {
+    "offerId": "CC_AXIS_600",
+    "description": "Flat ₹600 off using Axis Credit Card EMI",
+    "discountType": "FLAT",
+    "discountValue": 600,
+    "maxCap": 600,
+    "instrument": "CREDIT_CARD",
+    "bank": "AXIS"
+  },
+
+  {
+    "offerId": "UPI_GPAY_5",
+    "description": "5% discount on Google Pay UPI transactions above ₹2000",
+    "discountType": "PERCENTAGE",
+    "discountValue": 5,
+    "maxCap": 200,
+    "instrument": "UPI",
+    "bank": "GOOGLEPAY"
+  },
+  {
+    "offerId": "UPI_GPAY_75",
+    "description": "Flat ₹75 cashback on GPay UPI payments over ₹1200",
+    "discountType": "FLAT",
+    "discountValue": 75,
+    "maxCap": 75,
+    "instrument": "UPI",
+    "bank": "GOOGLEPAY"
+  },
+  {
+    "offerId": "UPI_GPAY_6",
+    "description": "6% instant discount using Google Pay UPI",
+    "discountType": "PERCENTAGE",
+    "discountValue": 6,
+    "maxCap": 150,
+    "instrument": "UPI",
+    "bank": "GOOGLEPAY"
+  },
+
+  {
+    "offerId": "UPI_PHONEPE_100",
+    "description": "Flat ₹100 instant discount on PhonePe UPI transactions above ₹1500",
+    "discountType": "FLAT",
+    "discountValue": 100,
+    "maxCap": 100,
+    "instrument": "UPI",
+    "bank": "PHONEPE"
+  },
+  {
+    "offerId": "UPI_PHONEPE_7",
+    "description": "7% discount using PhonePe UPI on orders above ₹1800",
+    "discountType": "PERCENTAGE",
+    "discountValue": 7,
+    "maxCap": 180,
+    "instrument": "UPI",
+    "bank": "PHONEPE"
+  },
+  {
+    "offerId": "UPI_PHONEPE_9",
+    "description": "9% cashback on PhonePe UPI electronics transactions",
+    "discountType": "PERCENTAGE",
+    "discountValue": 9,
+    "maxCap": 250,
+    "instrument": "UPI",
+    "bank": "PHONEPE"
+  },
+
+  {
+    "offerId": "UPI_PAYTM_8",
+    "description": "8% instant discount on Paytm UPI payments above ₹1000",
+    "discountType": "PERCENTAGE",
+    "discountValue": 8,
+    "maxCap": 250,
+    "instrument": "UPI",
+    "bank": "PAYTM"
+  },
+  {
+    "offerId": "UPI_PAYTM_50",
+    "description": "Flat ₹50 off on Paytm UPI for orders above ₹900",
+    "discountType": "FLAT",
+    "discountValue": 50,
+    "maxCap": 50,
+    "instrument": "UPI",
+    "bank": "PAYTM"
+  },
+  {
+    "offerId": "UPI_PAYTM_7",
+    "description": "7% off on grocery orders via Paytm UPI",
+    "discountType": "PERCENTAGE",
+    "discountValue": 7,
+    "maxCap": 160,
+    "instrument": "UPI",
+    "bank": "PAYTM"
+  },
+
+  {
+    "offerId": "UPI_AMAZONPAY_60",
+    "description": "Flat ₹60 cashback on Amazon Pay UPI transactions above ₹1100",
+    "discountType": "FLAT",
+    "discountValue": 60,
+    "maxCap": 60,
+    "instrument": "UPI",
+    "bank": "AMAZONPAY"
+  },
+  {
+    "offerId": "UPI_AMAZONPAY_6",
+    "description": "6% discount using Amazon Pay UPI on prepaid orders",
+    "discountType": "PERCENTAGE",
+    "discountValue": 6,
+    "maxCap": 150,
+    "instrument": "UPI",
+    "bank": "AMAZONPAY"
+  },
+
+  {
+    "offerId": "NB_HDFC_4",
+    "description": "4% discount on HDFC Net Banking payments",
+    "discountType": "PERCENTAGE",
+    "discountValue": 4,
+    "maxCap": 100,
+    "instrument": "NET_BANKING",
+    "bank": "HDFC"
+  },
+  {
+    "offerId": "NB_ICICI_3",
+    "description": "3% off on ICICI Net Banking orders above ₹1500",
+    "discountType": "PERCENTAGE",
+    "discountValue": 3,
+    "maxCap": 80,
+    "instrument": "NET_BANKING",
+    "bank": "ICICI"
+  },
+  {
+    "offerId": "NB_SBI_4",
+    "description": "4% instant discount using SBI Online Banking",
+    "discountType": "PERCENTAGE",
+    "discountValue": 4,
+    "maxCap": 120,
+    "instrument": "NET_BANKING",
+    "bank": "SBI"
+  },
+
+  {
+    "offerId": "WALLET_PAYTM_75",
+    "description": "Flat ₹75 cashback on Paytm Wallet transactions above ₹1000",
+    "discountType": "FLAT",
+    "discountValue": 75,
+    "maxCap": 75,
+    "instrument": "WALLET",
+    "bank": "PAYTM"
+  },
+  {
+    "offerId": "WALLET_PHONEPE_50",
+    "description": "Flat ₹50 wallet cashback on PhonePe wallet payments",
+    "discountType": "FLAT",
+    "discountValue": 50,
+    "maxCap": 50,
+    "instrument": "WALLET",
+    "bank": "PHONEPE"
+  },
+  {
+    "offerId": "WALLET_AMAZONPAY_10",
+    "description": "10% cashback using Amazon Pay Wallet for new users",
+    "discountType": "PERCENTAGE",
+    "discountValue": 10,
+    "maxCap": 120,
+    "instrument": "WALLET",
+    "bank": "AMAZONPAY"
+  }
+]
